@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Popov</h1>
 <h3 align="center">A passionate frontend developer from Russian</h3>
-<img align="right" alt="Coding" width="500" src="https://jonspencerreviews.files.wordpress.com/2018/12/6ccwLT4.gif?w=500&h=281&crop=1">
+<img align="right" alt="Coding" width="1000" src="https://jonspencerreviews.files.wordpress.com/2018/12/6ccwLT4.gif?w=500&h=281&crop=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustlle&label=Profile%20views&color=0e75b6&style=flat" alt="hustlle" /> </p>
 
